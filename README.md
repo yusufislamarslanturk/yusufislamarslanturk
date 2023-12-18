@@ -1,5 +1,5 @@
 # 💫 About Me:
-ı'm currently working on Agartha Software Company
+I'm currently working on Agartha Software Company
 
 
 ## 🌐 Socials:
