@@ -15,8 +15,6 @@ I'm currently working on Agartha Software Company
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yusufislamarslanturk&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yusufislamarslanturk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
